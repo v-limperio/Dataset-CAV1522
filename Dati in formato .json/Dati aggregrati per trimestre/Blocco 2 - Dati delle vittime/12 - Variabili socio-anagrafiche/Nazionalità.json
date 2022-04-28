@@ -1,0 +1,86 @@
+[
+  {
+    "Indice": 0,
+    "Anno": 2018,
+    "Trimestre": "Primo",
+    "Italiana": 2223,
+    "Non Italiana": 267
+  },
+  {
+    "Indice": 1,
+    "Anno": 2018,
+    "Trimestre": "Secondo",
+    "Italiana": 2068,
+    "Non Italiana": 305
+  },
+  {
+    "Indice": 2,
+    "Anno": 2018,
+    "Trimestre": "Terzo",
+    "Italiana": 1886,
+    "Non Italiana": 254
+  },
+  {
+    "Indice": 3,
+    "Anno": 2018,
+    "Trimestre": "Quarto",
+    "Italiana": 1919,
+    "Non Italiana": 287
+  },
+  {
+    "Indice": 4,
+    "Anno": 2019,
+    "Trimestre": "Primo",
+    "Italiana": 1877,
+    "Non Italiana": 288
+  },
+  {
+    "Indice": 5,
+    "Anno": 2019,
+    "Trimestre": "Secondo",
+    "Italiana": 1777,
+    "Non Italiana": 306
+  },
+  {
+    "Indice": 6,
+    "Anno": 2019,
+    "Trimestre": "Terzo",
+    "Italiana": 1758,
+    "Non Italiana": 282
+  },
+  {
+    "Indice": 7,
+    "Anno": 2019,
+    "Trimestre": "Quarto",
+    "Italiana": 1708,
+    "Non Italiana": 249
+  },
+  {
+    "Indice": 8,
+    "Anno": 2020,
+    "Trimestre": "Primo",
+    "Italiana": 1758,
+    "Non Italiana": 218
+  },
+  {
+    "Indice": 9,
+    "Anno": 2020,
+    "Trimestre": "Secondo",
+    "Italiana": 4694,
+    "Non Italiana": 588
+  },
+  {
+    "Indice": 10,
+    "Anno": 2020,
+    "Trimestre": "Terzo",
+    "Italiana": 3695,
+    "Non Italiana": 391
+  },
+  {
+    "Indice": 11,
+    "Anno": 2020,
+    "Trimestre": "Quarto",
+    "Italiana": 3400,
+    "Non Italiana": 345
+  }
+]

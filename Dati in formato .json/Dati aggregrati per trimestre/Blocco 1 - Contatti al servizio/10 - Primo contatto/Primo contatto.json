@@ -1,0 +1,86 @@
+[
+  {
+    "Indice": 0,
+    "Anno": 2018,
+    "Trimestre": "Primo",
+    "SI": 2403,
+    "NO": 192
+  },
+  {
+    "Indice": 1,
+    "Anno": 2018,
+    "Trimestre": "Secondo",
+    "SI": 2306,
+    "NO": 176
+  },
+  {
+    "Indice": 2,
+    "Anno": 2018,
+    "Trimestre": "Terzo",
+    "SI": 2056,
+    "NO": 157
+  },
+  {
+    "Indice": 3,
+    "Anno": 2018,
+    "Trimestre": "Quarto",
+    "SI": 2181,
+    "NO": 131
+  },
+  {
+    "Indice": 4,
+    "Anno": 2019,
+    "Trimestre": "Primo",
+    "SI": 2073,
+    "NO": 178
+  },
+  {
+    "Indice": 5,
+    "Anno": 2019,
+    "Trimestre": "Secondo",
+    "SI": 2022,
+    "NO": 176
+  },
+  {
+    "Indice": 6,
+    "Anno": 2019,
+    "Trimestre": "Terzo",
+    "SI": 2001,
+    "NO": 136
+  },
+  {
+    "Indice": 7,
+    "Anno": 2019,
+    "Trimestre": "Quarto",
+    "SI": 1972,
+    "NO": 89
+  },
+  {
+    "Indice": 8,
+    "Anno": 2020,
+    "Trimestre": "Primo",
+    "SI": 2002,
+    "NO": 101
+  },
+  {
+    "Indice": 9,
+    "Anno": 2020,
+    "Trimestre": "Secondo",
+    "SI": 5343,
+    "NO": 263
+  },
+  {
+    "Indice": 10,
+    "Anno": 2020,
+    "Trimestre": "Terzo",
+    "SI": 3777,
+    "NO": 348
+  },
+  {
+    "Indice": 11,
+    "Anno": 2020,
+    "Trimestre": "Quarto",
+    "SI": 3463,
+    "NO": 411
+  }
+]

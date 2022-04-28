@@ -1,0 +1,122 @@
+[
+  {
+    "Indice": 0,
+    "Anno": 2018,
+    "Trimestre": "Primo",
+    "Totale dei contatti": 9428,
+    "Contatti validi": 5857,
+    "Contatti non validi": 3571,
+    "Contatti effettuati da vittime": 2595,
+    "Contatti effettuati da utenti": 3262
+  },
+  {
+    "Indice": 1,
+    "Anno": 2018,
+    "Trimestre": "Secondo",
+    "Totale dei contatti": 10019,
+    "Contatti validi": 5773,
+    "Contatti non validi": 4246,
+    "Contatti effettuati da vittime": 2482,
+    "Contatti effettuati da utenti": 3291
+  },
+  {
+    "Indice": 2,
+    "Anno": 2018,
+    "Trimestre": "Terzo",
+    "Totale dei contatti": 8315,
+    "Contatti validi": 5306,
+    "Contatti non validi": 3009,
+    "Contatti effettuati da vittime": 2213,
+    "Contatti effettuati da utenti": 3093
+  },
+  {
+    "Indice": 3,
+    "Anno": 2018,
+    "Trimestre": "Quarto",
+    "Totale dei contatti": 10498,
+    "Contatti validi": 6297,
+    "Contatti non validi": 4201,
+    "Contatti effettuati da vittime": 2312,
+    "Contatti effettuati da utenti": 3985
+  },
+  {
+    "Indice": 4,
+    "Anno": 2019,
+    "Trimestre": "Primo",
+    "Totale dei contatti": 10924,
+    "Contatti validi": 5411,
+    "Contatti non validi": 5513,
+    "Contatti effettuati da vittime": 2251,
+    "Contatti effettuati da utenti": 3160
+  },
+  {
+    "Indice": 5,
+    "Anno": 2019,
+    "Trimestre": "Secondo",
+    "Totale dei contatti": 9720,
+    "Contatti validi": 5035,
+    "Contatti non validi": 4685,
+    "Contatti effettuati da vittime": 2198,
+    "Contatti effettuati da utenti": 2837
+  },
+  {
+    "Indice": 6,
+    "Anno": 2019,
+    "Trimestre": "Terzo",
+    "Totale dei contatti": 10774,
+    "Contatti validi": 4929,
+    "Contatti non validi": 5845,
+    "Contatti effettuati da vittime": 2137,
+    "Contatti effettuati da utenti": 2792
+  },
+  {
+    "Indice": 7,
+    "Anno": 2019,
+    "Trimestre": "Quarto",
+    "Totale dei contatti": 9590,
+    "Contatti validi": 5915,
+    "Contatti non validi": 3675,
+    "Contatti effettuati da vittime": 2061,
+    "Contatti effettuati da utenti": 3854
+  },
+  {
+    "Indice": 8,
+    "Anno": 2020,
+    "Trimestre": "Primo",
+    "Totale dei contatti": 8605,
+    "Contatti validi": 5744,
+    "Contatti non validi": 2861,
+    "Contatti effettuati da vittime": 2103,
+    "Contatti effettuati da utenti": 3641
+  },
+  {
+    "Indice": 9,
+    "Anno": 2020,
+    "Trimestre": "Secondo",
+    "Totale dei contatti": 17043,
+    "Contatti validi": 12942,
+    "Contatti non validi": 4101,
+    "Contatti effettuati da vittime": 5606,
+    "Contatti effettuati da utenti": 7336
+  },
+  {
+    "Indice": 10,
+    "Anno": 2020,
+    "Trimestre": "Terzo",
+    "Totale dei contatti": 8151,
+    "Contatti validi": 6144,
+    "Contatti non validi": 2007,
+    "Contatti effettuati da vittime": 4125,
+    "Contatti effettuati da utenti": 2019
+  },
+  {
+    "Indice": 11,
+    "Anno": 2020,
+    "Trimestre": "Quarto",
+    "Totale dei contatti": 9772,
+    "Contatti validi": 6858,
+    "Contatti non validi": 2914,
+    "Contatti effettuati da vittime": 3874,
+    "Contatti effettuati da utenti": 2984
+  }
+]

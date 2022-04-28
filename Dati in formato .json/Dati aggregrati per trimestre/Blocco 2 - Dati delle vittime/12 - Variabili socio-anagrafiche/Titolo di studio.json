@@ -1,0 +1,110 @@
+[
+  {
+    "Indice": 0,
+    "Anno": 2018,
+    "Trimestre": "Primo",
+    "Laurea o Diploma di laurea": 227,
+    "Licenza Media Superiore": 325,
+    "Licenza Media Inferiore": 244,
+    "Licenza Elementare": 27
+  },
+  {
+    "Indice": 1,
+    "Anno": 2018,
+    "Trimestre": "Secondo",
+    "Laurea o Diploma di laurea": 286,
+    "Licenza Media Superiore": 491,
+    "Licenza Media Inferiore": 335,
+    "Licenza Elementare": 40
+  },
+  {
+    "Indice": 2,
+    "Anno": 2018,
+    "Trimestre": "Terzo",
+    "Laurea o Diploma di laurea": 260,
+    "Licenza Media Superiore": 536,
+    "Licenza Media Inferiore": 339,
+    "Licenza Elementare": 39
+  },
+  {
+    "Indice": 3,
+    "Anno": 2018,
+    "Trimestre": "Quarto",
+    "Laurea o Diploma di laurea": 306,
+    "Licenza Media Superiore": 597,
+    "Licenza Media Inferiore": 491,
+    "Licenza Elementare": 68
+  },
+  {
+    "Indice": 4,
+    "Anno": 2019,
+    "Trimestre": "Primo",
+    "Laurea o Diploma di laurea": 333,
+    "Licenza Media Superiore": 488,
+    "Licenza Media Inferiore": 381,
+    "Licenza Elementare": 48
+  },
+  {
+    "Indice": 5,
+    "Anno": 2019,
+    "Trimestre": "Secondo",
+    "Laurea o Diploma di laurea": 324,
+    "Licenza Media Superiore": 527,
+    "Licenza Media Inferiore": 334,
+    "Licenza Elementare": 50
+  },
+  {
+    "Indice": 6,
+    "Anno": 2019,
+    "Trimestre": "Terzo",
+    "Laurea o Diploma di laurea": 297,
+    "Licenza Media Superiore": 515,
+    "Licenza Media Inferiore": 326,
+    "Licenza Elementare": 34
+  },
+  {
+    "Indice": 7,
+    "Anno": 2019,
+    "Trimestre": "Quarto",
+    "Laurea o Diploma di laurea": 298,
+    "Licenza Media Superiore": 389,
+    "Licenza Media Inferiore": 215,
+    "Licenza Elementare": 23
+  },
+  {
+    "Indice": 8,
+    "Anno": 2020,
+    "Trimestre": "Primo",
+    "Laurea o Diploma di laurea": 261,
+    "Licenza Media Superiore": 356,
+    "Licenza Media Inferiore": 174,
+    "Licenza Elementare": 25
+  },
+  {
+    "Indice": 9,
+    "Anno": 2020,
+    "Trimestre": "Secondo",
+    "Laurea o Diploma di laurea": 551,
+    "Licenza Media Superiore": 795,
+    "Licenza Media Inferiore": 307,
+    "Licenza Elementare": 50
+  },
+  {
+    "Indice": 10,
+    "Anno": 2020,
+    "Trimestre": "Terzo",
+    "Laurea o Diploma di laurea": 84,
+    "Licenza Media Superiore": 95,
+    "Licenza Media Inferiore": 30,
+    "Licenza Elementare": 5
+  },
+  {
+    "Indice": 11,
+    "Anno": 2020,
+    "Trimestre": "Quarto",
+    "Laurea o Diploma di laurea": 157,
+    "Licenza Media Superiore": 210,
+    "Licenza Media Inferiore": 92,
+    "Licenza Elementare": 20
+  }
+]

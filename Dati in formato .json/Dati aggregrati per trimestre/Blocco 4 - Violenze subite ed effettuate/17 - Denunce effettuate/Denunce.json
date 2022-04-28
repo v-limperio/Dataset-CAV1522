@@ -1,0 +1,86 @@
+[
+  {
+    "Indice": 0,
+    "Anno": 2018,
+    "Trimestre": "Primo",
+    "Vittime che denunciano": 358,
+    "Vittime che non denunciano": 1836
+  },
+  {
+    "Indice": 1,
+    "Anno": 2018,
+    "Trimestre": "Secondo",
+    "Vittime che denunciano": 325,
+    "Vittime che non denunciano": 1781
+  },
+  {
+    "Indice": 2,
+    "Anno": 2018,
+    "Trimestre": "Terzo",
+    "Vittime che denunciano": 331,
+    "Vittime che non denunciano": 1610
+  },
+  {
+    "Indice": 3,
+    "Anno": 2018,
+    "Trimestre": "Quarto",
+    "Vittime che denunciano": 349,
+    "Vittime che non denunciano": 1649
+  },
+  {
+    "Indice": 4,
+    "Anno": 2019,
+    "Trimestre": "Primo",
+    "Vittime che denunciano": 350,
+    "Vittime che non denunciano": 1604
+  },
+  {
+    "Indice": 5,
+    "Anno": 2019,
+    "Trimestre": "Secondo",
+    "Vittime che denunciano": 314,
+    "Vittime che non denunciano": 1604
+  },
+  {
+    "Indice": 6,
+    "Anno": 2019,
+    "Trimestre": "Terzo",
+    "Vittime che denunciano": 326,
+    "Vittime che non denunciano": 1536
+  },
+  {
+    "Indice": 7,
+    "Anno": 2019,
+    "Trimestre": "Quarto",
+    "Vittime che denunciano": 320,
+    "Vittime che non denunciano": 1497
+  },
+  {
+    "Indice": 8,
+    "Anno": 2020,
+    "Trimestre": "Primo",
+    "Vittime che denunciano": 229,
+    "Vittime che non denunciano": 1552
+  },
+  {
+    "Indice": 9,
+    "Anno": 2020,
+    "Trimestre": "Secondo",
+    "Vittime che denunciano": 609,
+    "Vittime che non denunciano": 4087
+  },
+  {
+    "Indice": 10,
+    "Anno": 2020,
+    "Trimestre": "Terzo",
+    "Vittime che denunciano": 346,
+    "Vittime che non denunciano": 1564
+  },
+  {
+    "Indice": 11,
+    "Anno": 2020,
+    "Trimestre": "Quarto",
+    "Vittime che denunciano": 469,
+    "Vittime che non denunciano": 2058
+  }
+]

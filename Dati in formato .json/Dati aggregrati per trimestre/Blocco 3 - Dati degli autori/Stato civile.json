@@ -1,0 +1,122 @@
+[
+  {
+    "Indice": 0,
+    "Anno": 2018,
+    "Trimestre": "Primo",
+    "Coniugata/o": 1205,
+    "Nubile/Celibe": 766,
+    "Separata/o": 238,
+    "Divorziata/o": 88,
+    "Vedova/o": 29
+  },
+  {
+    "Indice": 1,
+    "Anno": 2018,
+    "Trimestre": "Secondo",
+    "Coniugata/o": 1230,
+    "Nubile/Celibe": 710,
+    "Separata/o": 197,
+    "Divorziata/o": 71,
+    "Vedova/o": 23
+  },
+  {
+    "Indice": 2,
+    "Anno": 2018,
+    "Trimestre": "Terzo",
+    "Coniugata/o": 1090,
+    "Nubile/Celibe": 662,
+    "Separata/o": 173,
+    "Divorziata/o": 84,
+    "Vedova/o": 15
+  },
+  {
+    "Indice": 3,
+    "Anno": 2018,
+    "Trimestre": "Quarto",
+    "Coniugata/o": 1074,
+    "Nubile/Celibe": 704,
+    "Separata/o": 204,
+    "Divorziata/o": 91,
+    "Vedova/o": 19
+  },
+  {
+    "Indice": 4,
+    "Anno": 2019,
+    "Trimestre": "Primo",
+    "Coniugata/o": 995,
+    "Nubile/Celibe": 758,
+    "Separata/o": 180,
+    "Divorziata/o": 89,
+    "Vedova/o": 29
+  },
+  {
+    "Indice": 5,
+    "Anno": 2019,
+    "Trimestre": "Secondo",
+    "Coniugata/o": 961,
+    "Nubile/Celibe": 730,
+    "Separata/o": 181,
+    "Divorziata/o": 77,
+    "Vedova/o": 27
+  },
+  {
+    "Indice": 6,
+    "Anno": 2019,
+    "Trimestre": "Terzo",
+    "Coniugata/o": 997,
+    "Nubile/Celibe": 650,
+    "Separata/o": 174,
+    "Divorziata/o": 86,
+    "Vedova/o": 26
+  },
+  {
+    "Indice": 7,
+    "Anno": 2019,
+    "Trimestre": "Quarto",
+    "Coniugata/o": 914,
+    "Nubile/Celibe": 673,
+    "Separata/o": 189,
+    "Divorziata/o": 77,
+    "Vedova/o": 18
+  },
+  {
+    "Indice": 8,
+    "Anno": 2020,
+    "Trimestre": "Primo",
+    "Coniugata/o": 928,
+    "Nubile/Celibe": 671,
+    "Separata/o": 165,
+    "Divorziata/o": 60,
+    "Vedova/o": 19
+  },
+  {
+    "Indice": 9,
+    "Anno": 2020,
+    "Trimestre": "Secondo",
+    "Coniugata/o": 2464,
+    "Nubile/Celibe": 1686,
+    "Separata/o": 440,
+    "Divorziata/o": 138,
+    "Vedova/o": 56
+  },
+  {
+    "Indice": 10,
+    "Anno": 2020,
+    "Trimestre": "Terzo",
+    "Coniugata/o": 1594,
+    "Nubile/Celibe": 902,
+    "Separata/o": 228,
+    "Divorziata/o": 52,
+    "Vedova/o": 38
+  },
+  {
+    "Indice": 11,
+    "Anno": 2020,
+    "Trimestre": "Quarto",
+    "Coniugata/o": 1610,
+    "Nubile/Celibe": 1014,
+    "Separata/o": 233,
+    "Divorziata/o": 71,
+    "Vedova/o": 36
+  }
+]

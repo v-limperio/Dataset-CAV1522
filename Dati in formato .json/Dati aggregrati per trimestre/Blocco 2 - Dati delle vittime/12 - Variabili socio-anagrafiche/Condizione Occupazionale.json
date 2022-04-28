@@ -1,0 +1,134 @@
+[
+  {
+    "Indice": 0,
+    "Anno": 2018,
+    "Trimestre": "Primo",
+    "Casalinga/o": 358,
+    "Disoccupato, in cerca di lavoro": 560,
+    "Lavoro in nero": 121,
+    "Occupato": 1001,
+    "Ritirato/a dal lavoro": 261,
+    "Studente": 100
+  },
+  {
+    "Indice": 1,
+    "Anno": 2018,
+    "Trimestre": "Secondo",
+    "Casalinga/o": 296,
+    "Disoccupato, in cerca di lavoro": 481,
+    "Lavoro in nero": 136,
+    "Occupato": 976,
+    "Ritirato/a dal lavoro": 290,
+    "Studente": 101
+  },
+  {
+    "Indice": 2,
+    "Anno": 2018,
+    "Trimestre": "Terzo",
+    "Casalinga/o": 232,
+    "Disoccupato, in cerca di lavoro": 504,
+    "Lavoro in nero": 111,
+    "Occupato": 914,
+    "Ritirato/a dal lavoro": 210,
+    "Studente": 90
+  },
+  {
+    "Indice": 3,
+    "Anno": 2018,
+    "Trimestre": "Quarto",
+    "Casalinga/o": 235,
+    "Disoccupato, in cerca di lavoro": 595,
+    "Lavoro in nero": 114,
+    "Occupato": 875,
+    "Ritirato/a dal lavoro": 252,
+    "Studente": 90
+  },
+  {
+    "Indice": 4,
+    "Anno": 2019,
+    "Trimestre": "Primo",
+    "Casalinga/o": 245,
+    "Disoccupato, in cerca di lavoro": 543,
+    "Lavoro in nero": 118,
+    "Occupato": 862,
+    "Ritirato/a dal lavoro": 226,
+    "Studente": 133
+  },
+  {
+    "Indice": 5,
+    "Anno": 2019,
+    "Trimestre": "Secondo",
+    "Casalinga/o": 263,
+    "Disoccupato, in cerca di lavoro": 482,
+    "Lavoro in nero": 106,
+    "Occupato": 871,
+    "Ritirato/a dal lavoro": 202,
+    "Studente": 118
+  },
+  {
+    "Indice": 6,
+    "Anno": 2019,
+    "Trimestre": "Terzo",
+    "Casalinga/o": 245,
+    "Disoccupato, in cerca di lavoro": 533,
+    "Lavoro in nero": 94,
+    "Occupato": 787,
+    "Ritirato/a dal lavoro": 235,
+    "Studente": 102
+  },
+  {
+    "Indice": 7,
+    "Anno": 2019,
+    "Trimestre": "Quarto",
+    "Casalinga/o": 219,
+    "Disoccupato, in cerca di lavoro": 451,
+    "Lavoro in nero": 93,
+    "Occupato": 824,
+    "Ritirato/a dal lavoro": 199,
+    "Studente": 128
+  },
+  {
+    "Indice": 8,
+    "Anno": 2020,
+    "Trimestre": "Primo",
+    "Casalinga/o": 197,
+    "Disoccupato, in cerca di lavoro": 459,
+    "Lavoro in nero": 97,
+    "Occupato": 790,
+    "Ritirato/a dal lavoro": 204,
+    "Studente": 155
+  },
+  {
+    "Indice": 9,
+    "Anno": 2020,
+    "Trimestre": "Secondo",
+    "Casalinga/o": 544,
+    "Disoccupato, in cerca di lavoro": 1288,
+    "Lavoro in nero": 177,
+    "Occupato": 1862,
+    "Ritirato/a dal lavoro": 595,
+    "Studente": 356
+  },
+  {
+    "Indice": 10,
+    "Anno": 2020,
+    "Trimestre": "Terzo",
+    "Casalinga/o": 218,
+    "Disoccupato, in cerca di lavoro": 779,
+    "Lavoro in nero": 75,
+    "Occupato": 1094,
+    "Ritirato/a dal lavoro": 383,
+    "Studente": 235
+  },
+  {
+    "Indice": 11,
+    "Anno": 2020,
+    "Trimestre": "Quarto",
+    "Casalinga/o": 438,
+    "Disoccupato, in cerca di lavoro": 654,
+    "Lavoro in nero": 66,
+    "Occupato": 1221,
+    "Ritirato/a dal lavoro": 449,
+    "Studente": 255
+  }
+]

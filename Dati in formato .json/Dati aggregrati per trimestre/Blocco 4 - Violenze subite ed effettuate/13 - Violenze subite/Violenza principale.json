@@ -1,0 +1,122 @@
+[
+  {
+    "Indice": 0,
+    "Anno": 2018,
+    "Trimestre": "Primo",
+    "Fisica": 1172,
+    "Psicologica": 989,
+    "Sessuale": 108,
+    "Stalking": 101,
+    "Economica": 47
+  },
+  {
+    "Indice": 1,
+    "Anno": 2018,
+    "Trimestre": "Secondo",
+    "Fisica": 1098,
+    "Psicologica": 953,
+    "Sessuale": 91,
+    "Stalking": 99,
+    "Economica": 21
+  },
+  {
+    "Indice": 2,
+    "Anno": 2018,
+    "Trimestre": "Terzo",
+    "Fisica": 1042,
+    "Psicologica": 817,
+    "Sessuale": 105,
+    "Stalking": 80,
+    "Economica": 19
+  },
+  {
+    "Indice": 3,
+    "Anno": 2018,
+    "Trimestre": "Quarto",
+    "Fisica": 936,
+    "Psicologica": 988,
+    "Sessuale": 61,
+    "Stalking": 95,
+    "Economica": 36
+  },
+  {
+    "Indice": 4,
+    "Anno": 2019,
+    "Trimestre": "Primo",
+    "Fisica": 872,
+    "Psicologica": 996,
+    "Sessuale": 84,
+    "Stalking": 97,
+    "Economica": 31
+  },
+  {
+    "Indice": 5,
+    "Anno": 2019,
+    "Trimestre": "Secondo",
+    "Fisica": 998,
+    "Psicologica": 791,
+    "Sessuale": 98,
+    "Stalking": 77,
+    "Economica": 40
+  },
+  {
+    "Indice": 6,
+    "Anno": 2019,
+    "Trimestre": "Terzo",
+    "Fisica": 954,
+    "Psicologica": 799,
+    "Sessuale": 124,
+    "Stalking": 70,
+    "Economica": 26
+  },
+  {
+    "Indice": 7,
+    "Anno": 2019,
+    "Trimestre": "Quarto",
+    "Fisica": 936,
+    "Psicologica": 757,
+    "Sessuale": 92,
+    "Stalking": 79,
+    "Economica": 21
+  },
+  {
+    "Indice": 8,
+    "Anno": 2020,
+    "Trimestre": "Primo",
+    "Fisica": 1043,
+    "Psicologica": 669,
+    "Sessuale": 106,
+    "Stalking": 55,
+    "Economica": 11
+  },
+  {
+    "Indice": 9,
+    "Anno": 2020,
+    "Trimestre": "Secondo",
+    "Fisica": 2583,
+    "Psicologica": 1988,
+    "Sessuale": 241,
+    "Stalking": 192,
+    "Economica": 57
+  },
+  {
+    "Indice": 10,
+    "Anno": 2020,
+    "Trimestre": "Terzo",
+    "Fisica": 2086,
+    "Psicologica": 1281,
+    "Sessuale": 312,
+    "Stalking": 136,
+    "Economica": 76
+  },
+  {
+    "Indice": 11,
+    "Anno": 2020,
+    "Trimestre": "Quarto",
+    "Fisica": 1727,
+    "Psicologica": 1378,
+    "Sessuale": 292,
+    "Stalking": 125,
+    "Economica": 41
+  }
+]

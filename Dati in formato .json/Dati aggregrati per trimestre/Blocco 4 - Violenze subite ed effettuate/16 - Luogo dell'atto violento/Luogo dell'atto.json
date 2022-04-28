@@ -1,0 +1,134 @@
+[
+  {
+    "Indice": 0,
+    "Anno": 2018,
+    "Trimestre": "Primo",
+    "La propria casa": 2021,
+    "La strada": 31,
+    "Il luogo di lavoro": 35,
+    "La casa altrui": 43,
+    "Un locale pubblico": 12,
+    "L'automobile": 4
+  },
+  {
+    "Indice": 1,
+    "Anno": 2018,
+    "Trimestre": "Secondo",
+    "La propria casa": 1875,
+    "La strada": 43,
+    "Il luogo di lavoro": 41,
+    "La casa altrui": 44,
+    "Un locale pubblico": 14,
+    "L'automobile": 8
+  },
+  {
+    "Indice": 2,
+    "Anno": 2018,
+    "Trimestre": "Terzo",
+    "La propria casa": 1682,
+    "La strada": 44,
+    "Il luogo di lavoro": 27,
+    "La casa altrui": 52,
+    "Un locale pubblico": 13,
+    "L'automobile": 5
+  },
+  {
+    "Indice": 3,
+    "Anno": 2018,
+    "Trimestre": "Quarto",
+    "La propria casa": 1750,
+    "La strada": 31,
+    "Il luogo di lavoro": 23,
+    "La casa altrui": 35,
+    "Un locale pubblico": 7,
+    "L'automobile": 7
+  },
+  {
+    "Indice": 4,
+    "Anno": 2019,
+    "Trimestre": "Primo",
+    "La propria casa": 1701,
+    "La strada": 24,
+    "Il luogo di lavoro": 28,
+    "La casa altrui": 39,
+    "Un locale pubblico": 15,
+    "L'automobile": 9
+  },
+  {
+    "Indice": 5,
+    "Anno": 2019,
+    "Trimestre": "Secondo",
+    "La propria casa": 1625,
+    "La strada": 37,
+    "Il luogo di lavoro": 20,
+    "La casa altrui": 48,
+    "Un locale pubblico": 13,
+    "L'automobile": 10
+  },
+  {
+    "Indice": 6,
+    "Anno": 2019,
+    "Trimestre": "Terzo",
+    "La propria casa": 1594,
+    "La strada": 24,
+    "Il luogo di lavoro": 24,
+    "La casa altrui": 47,
+    "Un locale pubblico": 3,
+    "L'automobile": 5
+  },
+  {
+    "Indice": 7,
+    "Anno": 2019,
+    "Trimestre": "Quarto",
+    "La propria casa": 1530,
+    "La strada": 21,
+    "Il luogo di lavoro": 21,
+    "La casa altrui": 18,
+    "Un locale pubblico": 7,
+    "L'automobile": 6
+  },
+  {
+    "Indice": 8,
+    "Anno": 2020,
+    "Trimestre": "Primo",
+    "La propria casa": 1557,
+    "La strada": 21,
+    "Il luogo di lavoro": 15,
+    "La casa altrui": 40,
+    "Un locale pubblico": 18,
+    "L'automobile": 1
+  },
+  {
+    "Indice": 9,
+    "Anno": 2020,
+    "Trimestre": "Secondo",
+    "La propria casa": 4337,
+    "La strada": 68,
+    "Il luogo di lavoro": 39,
+    "La casa altrui": 85,
+    "Un locale pubblico": 9,
+    "L'automobile": 8
+  },
+  {
+    "Indice": 10,
+    "Anno": 2020,
+    "Trimestre": "Terzo",
+    "La propria casa": 2853,
+    "La strada": 79,
+    "Il luogo di lavoro": 50,
+    "La casa altrui": 73,
+    "Un locale pubblico": 34,
+    "L'automobile": 17
+  },
+  {
+    "Indice": 11,
+    "Anno": 2020,
+    "Trimestre": "Quarto",
+    "La propria casa": 2853,
+    "La strada": 79,
+    "Il luogo di lavoro": 50,
+    "La casa altrui": 83,
+    "Un locale pubblico": 29,
+    "L'automobile": 9
+  }
+]

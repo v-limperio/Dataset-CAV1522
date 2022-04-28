@@ -1,0 +1,98 @@
+[
+  {
+    "Indice": 0,
+    "Anno": 2018,
+    "Trimestre": "Primo",
+    "Vittime senza figli": 745,
+    "Vittime con figli": 1705,
+    "Vittime con figli minori": 1043
+  },
+  {
+    "Indice": 1,
+    "Anno": 2018,
+    "Trimestre": "Secondo",
+    "Vittime senza figli": 701,
+    "Vittime con figli": 1622,
+    "Vittime con figli minori": 947
+  },
+  {
+    "Indice": 2,
+    "Anno": 2018,
+    "Trimestre": "Terzo",
+    "Vittime senza figli": 684,
+    "Vittime con figli": 1429,
+    "Vittime con figli minori": 844
+  },
+  {
+    "Indice": 3,
+    "Anno": 2018,
+    "Trimestre": "Quarto",
+    "Vittime senza figli": 651,
+    "Vittime con figli": 1526,
+    "Vittime con figli minori": 922
+  },
+  {
+    "Indice": 4,
+    "Anno": 2019,
+    "Trimestre": "Primo",
+    "Vittime senza figli": 709,
+    "Vittime con figli": 1426,
+    "Vittime con figli minori": 878
+  },
+  {
+    "Indice": 5,
+    "Anno": 2019,
+    "Trimestre": "Secondo",
+    "Vittime senza figli": 696,
+    "Vittime con figli": 1352,
+    "Vittime con figli minori": 879
+  },
+  {
+    "Indice": 6,
+    "Anno": 2019,
+    "Trimestre": "Terzo",
+    "Vittime senza figli": 679,
+    "Vittime con figli": 1342,
+    "Vittime con figli minori": 792
+  },
+  {
+    "Indice": 7,
+    "Anno": 2019,
+    "Trimestre": "Quarto",
+    "Vittime senza figli": 661,
+    "Vittime con figli": 1278,
+    "Vittime con figli minori": 780
+  },
+  {
+    "Indice": 8,
+    "Anno": 2020,
+    "Trimestre": "Primo",
+    "Vittime senza figli": 735,
+    "Vittime con figli": 1207,
+    "Vittime con figli minori": 718
+  },
+  {
+    "Indice": 9,
+    "Anno": 2020,
+    "Trimestre": "Secondo",
+    "Vittime senza figli": 1812,
+    "Vittime con figli": 3308,
+    "Vittime con figli minori": 1839
+  },
+  {
+    "Indice": 10,
+    "Anno": 2020,
+    "Trimestre": "Terzo",
+    "Vittime senza figli": 1351,
+    "Vittime con figli": 2010,
+    "Vittime con figli minori": 699
+  },
+  {
+    "Indice": 11,
+    "Anno": 2020,
+    "Trimestre": "Quarto",
+    "Vittime senza figli": 1517,
+    "Vittime con figli": 1969,
+    "Vittime con figli minori": 803
+  }
+]
