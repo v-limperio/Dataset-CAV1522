@@ -1,0 +1,35 @@
+[
+  {
+    "Indice": 0,
+    "Anno": 2018,
+    "Timore per la propria incolumità": 2376,
+    "Ansia": 1846,
+    "Grave stato di soggezione": 2283,
+    "Sentirsi molestati ma con nessun timore di un pericolo imminente": 439,
+    "Fastidio": 400,
+    "Paura per la propria morte": 491,
+    "Paura per l'incolumità dei propri cari": 466
+  },
+  {
+    "Indice": 1,
+    "Anno": 2019,
+    "Timore per la propria incolumità": 2611,
+    "Ansia": 1934,
+    "Grave stato di soggezione": 1488,
+    "Sentirsi molestati ma con nessun timore di un pericolo imminente": 350,
+    "Fastidio": 477,
+    "Paura per la propria morte": 459,
+    "Paura per l'incolumità dei propri cari": 450
+  },
+  {
+    "Indice": 2,
+    "Anno": 2020,
+    "Timore per la propria incolumità": 3271,
+    "Ansia": 2205,
+    "Grave stato di soggezione": 2556,
+    "Sentirsi molestati ma con nessun timore di un pericolo imminente": 775,
+    "Fastidio": 705,
+    "Paura per la propria morte": 436,
+    "Paura per l'incolumità dei propri cari": 438
+  }
+]

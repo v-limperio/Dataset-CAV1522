@@ -1,0 +1,38 @@
+[
+  {
+    "Indice": 1,
+    "Anno": 2018,
+    "Internet": 3538,
+    "Tv": 4464,
+    "Conoscenti": 1086,
+    "Servizio pubblico": 1015,
+    "Stampa": 162,
+    "Manifesti pubblicitari": 71,
+    "Elenco telefonico": 207,
+    "Radio": 30
+  },
+  {
+    "Indice": 2,
+    "Anno": 2019,
+    "Internet": 5590,
+    "Tv": 3010,
+    "Conoscenti": 1102,
+    "Servizio pubblico": 1268,
+    "Stampa": 157,
+    "Manifesti pubblicitari": 84,
+    "Elenco telefonico": 220,
+    "Radio": 20
+  },
+  {
+    "Indice": 3,
+    "Anno": 2020,
+    "Internet": 4674,
+    "Tv": 4241,
+    "Conoscenti": 946,
+    "Servizio pubblico": 844,
+    "Stampa": 405,
+    "Manifesti pubblicitari": 64,
+    "Elenco telefonico": 43,
+    "Radio": 27
+  }
+]

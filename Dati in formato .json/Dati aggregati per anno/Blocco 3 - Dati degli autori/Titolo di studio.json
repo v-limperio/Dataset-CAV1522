@@ -1,0 +1,26 @@
+[
+  {
+    "Indice": 0,
+    "Anno": 2018,
+    "Laurea o Diploma di laurea": 615,
+    "Licenza Media Superiore": 1484,
+    "Licenza Media Inferiore": 1620,
+    "Licenza Elementare/Nessun titolo": 225
+  },
+  {
+    "Indice": 1,
+    "Anno": 2019,
+    "Laurea o Diploma di laurea": 697,
+    "Licenza Media Superiore": 1505,
+    "Licenza Media Inferiore": 1532,
+    "Licenza Elementare/Nessun titolo": 210
+  },
+  {
+    "Indice": 2,
+    "Anno": 2020,
+    "Laurea o Diploma di laurea": 559,
+    "Licenza Media Superiore": 1049,
+    "Licenza Media Inferiore": 698,
+    "Licenza Elementare/Nessun titolo": 128
+  }
+]

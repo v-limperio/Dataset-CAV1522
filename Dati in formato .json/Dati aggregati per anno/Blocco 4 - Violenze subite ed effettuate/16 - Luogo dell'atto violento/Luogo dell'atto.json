@@ -1,0 +1,32 @@
+[
+  {
+    "Indice": 0,
+    "Anno": 2018,
+    "La propria casa": 7328,
+    "La strada": 149,
+    "Il luogo di lavoro": 126,
+    "La casa altrui": 174,
+    "Un locale pubblico": 46,
+    "L'automobile": 24
+  },
+  {
+    "Indice": 1,
+    "Anno": 2019,
+    "La propria casa": 6450,
+    "La strada": 106,
+    "Il luogo di lavoro": 93,
+    "La casa altrui": 152,
+    "Un locale pubblico": 38,
+    "L'automobile": 30
+  },
+  {
+    "Indice": 2,
+    "Anno": 2020,
+    "La propria casa": 11600,
+    "La strada": 247,
+    "Il luogo di lavoro": 154,
+    "La casa altrui": 281,
+    "Un locale pubblico": 90,
+    "L'automobile": 35
+  }
+]

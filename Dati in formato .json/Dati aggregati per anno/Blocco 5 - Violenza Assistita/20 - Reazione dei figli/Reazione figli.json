@@ -1,0 +1,35 @@
+[
+  {
+    "Indice": 0,
+    "Anno": 2018,
+    "Inquietudine": 1741,
+    "Aggressività": 289,
+    "Comportamenti adultizzati di accudimento verso i familiari": 336,
+    "Disturbi del sonno": 69,
+    "Ipermaturità": 138,
+    "Difficoltà nel comportamento alimentare": 14,
+    "Disturbi gastro-intestinali": 10
+  },
+  {
+    "Indice": 1,
+    "Anno": 2019,
+    "Inquietudine": 1183,
+    "Aggressività": 269,
+    "Comportamenti adultizzati di accudimento verso i familiari": 318,
+    "Disturbi del sonno": 47,
+    "Ipermaturità": 128,
+    "Difficoltà nel comportamento alimentare": 17,
+    "Disturbi gastro-intestinali": 18
+  },
+  {
+    "Indice": 2,
+    "Anno": 2020,
+    "Inquietudine": 1946,
+    "Aggressività": 466,
+    "Comportamenti adultizzati di accudimento verso i familiari": 366,
+    "Disturbi del sonno": 104,
+    "Ipermaturità": 148,
+    "Difficoltà nel comportamento alimentare": 25,
+    "Disturbi gastro-intestinali": 23
+  }
+]

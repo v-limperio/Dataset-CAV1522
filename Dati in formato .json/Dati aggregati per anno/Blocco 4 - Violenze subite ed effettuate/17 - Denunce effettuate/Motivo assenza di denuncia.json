@@ -1,0 +1,35 @@
+[
+  {
+    "Indice": 0,
+    "Anno": 2018,
+    "Non vuole compromettere la famiglia": 1458,
+    "Ha paura del violento": 1042,
+    "Non ha un posto sicuro dove andare": 250,
+    "Non ha fiducia nelle Forze dell'Ordine": 104,
+    "E' stata invitata dalle FF.OO. a non fare denuncia o ritirarla": 249,
+    "E' tornata dal maltrattante": 373,
+    "Teme di essere giudicata male dai propri familiari": 32
+  },
+  {
+    "Indice": 1,
+    "Anno": 2019,
+    "Non vuole compromettere la famiglia": 1056,
+    "Ha paura del violento": 857,
+    "Non ha un posto sicuro dove andare": 153,
+    "Non ha fiducia nelle Forze dell'Ordine": 83,
+    "E' stata invitata dalle FF.OO. a non fare denuncia o ritirarla": 183,
+    "E' tornata dal maltrattante": 197,
+    "Teme di essere giudicata male dai propri familiari": 53
+  },
+  {
+    "Indice": 2,
+    "Anno": 2020,
+    "Non vuole compromettere la famiglia": 1833,
+    "Ha paura del violento": 1286,
+    "Non ha un posto sicuro dove andare": 546,
+    "Non ha fiducia nelle Forze dell'Ordine": 122,
+    "E' stata invitata dalle FF.OO. a non fare denuncia o ritirarla": 321,
+    "E' tornata dal maltrattante": 424,
+    "Teme di essere giudicata male dai propri familiari": 160
+  }
+]

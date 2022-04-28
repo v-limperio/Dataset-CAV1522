@@ -1,0 +1,35 @@
+[
+  {
+    "Indice": 0,
+    "Anno": 2018,
+    "Lunedì": 4050,
+    "Martedi": 3605,
+    "Mercoledì": 3386,
+    "Giovedì": 3411,
+    "Venerdì": 3272,
+    "Sabato": 2781,
+    "Domenica": 2728
+  },
+  {
+    "Indice": 1,
+    "Anno": 2019,
+    "Lunedì": 3654,
+    "Martedi": 3450,
+    "Mercoledì": 3193,
+    "Giovedì": 3034,
+    "Venerdì": 3128,
+    "Sabato": 2605,
+    "Domenica": 2226
+  },
+  {
+    "Indice": 2,
+    "Anno": 2020,
+    "Lunedì": 5111,
+    "Martedi": 4852,
+    "Mercoledì": 5016,
+    "Giovedì": 4588,
+    "Venerdì": 4378,
+    "Sabato": 4024,
+    "Domenica": 3719
+  }
+]

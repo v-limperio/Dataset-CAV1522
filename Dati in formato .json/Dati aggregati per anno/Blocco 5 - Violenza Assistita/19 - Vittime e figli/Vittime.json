@@ -1,0 +1,23 @@
+[
+  {
+    "Indice": 0,
+    "Anno": 2018,
+    "Vittime senza figli": 2781,
+    "Vittime con figli": 6282,
+    "Vittime con figli minori": 3756
+  },
+  {
+    "Indice": 1,
+    "Anno": 2019,
+    "Vittime senza figli": 2745,
+    "Vittime con figli": 5398,
+    "Vittime con figli minori": 3329
+  },
+  {
+    "Indice": 2,
+    "Anno": 2020,
+    "Vittime senza figli": 5415,
+    "Vittime con figli": 8494,
+    "Vittime con figli minori": 4059
+  }
+]

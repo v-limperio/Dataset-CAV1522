@@ -1,0 +1,29 @@
+[
+  {
+    "Indice": 0,
+    "Anno": 2018,
+    "Coniugata/o": 4599,
+    "Nubile/Celibe": 2842,
+    "Separata/o": 812,
+    "Divorziata/o": 334,
+    "Vedova/o": 86
+  },
+  {
+    "Indice": 1,
+    "Anno": 2019,
+    "Coniugata/o": 3867,
+    "Nubile/Celibe": 2811,
+    "Separata/o": 724,
+    "Divorziata/o": 329,
+    "Vedova/o": 100
+  },
+  {
+    "Indice": 2,
+    "Anno": 2020,
+    "Coniugata/o": 6596,
+    "Nubile/Celibe": 4273,
+    "Separata/o": 1066,
+    "Divorziata/o": 321,
+    "Vedova/o": 149
+  }
+]

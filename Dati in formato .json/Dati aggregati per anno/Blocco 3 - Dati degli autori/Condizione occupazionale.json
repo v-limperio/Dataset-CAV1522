@@ -1,0 +1,35 @@
+[
+  {
+    "Indice": 0,
+    "Anno": 2018,
+    "Occupata/o": 5131,
+    "Disoccupata/o": 1611,
+    "Pensionata/o": 1047,
+    "Lavoratrice/tore in nero": 414,
+    "Studentessa/Studente": 177,
+    "Ritirata/o o inabile al lavoro": 74,
+    "Casalinga/o": 50
+  },
+  {
+    "Indice": 1,
+    "Anno": 2019,
+    "Occupata/o": 4729,
+    "Disoccupata/o": 1453,
+    "Pensionata/o": 911,
+    "Lavoratrice/tore in nero": 350,
+    "Studentessa/Studente": 169,
+    "Ritirata/o o inabile al lavoro": 50,
+    "Casalinga/o": 34
+  },
+  {
+    "Indice": 2,
+    "Anno": 2020,
+    "Occupata/o": 6534,
+    "Disoccupata/o": 2045,
+    "Pensionata/o": 1403,
+    "Lavoratrice/tore in nero": 409,
+    "Studentessa/Studente": 300,
+    "Ritirata/o o inabile al lavoro": 151,
+    "Casalinga/o": 85
+  }
+]

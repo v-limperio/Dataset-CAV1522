@@ -1,0 +1,32 @@
+[
+  {
+    "Indice": 0,
+    "Anno": 2018,
+    "Casalinga/o": 1121,
+    "Disoccupato, in cerca di lavoro": 2140,
+    "Lavoro in nero": 482,
+    "Occupato": 3766,
+    "Ritirato/a dal lavoro": 1013,
+    "Studente": 381
+  },
+  {
+    "Indice": 1,
+    "Anno": 2019,
+    "Casalinga/o": 972,
+    "Disoccupato, in cerca di lavoro": 2009,
+    "Lavoro in nero": 411,
+    "Occupato": 3344,
+    "Ritirato/a dal lavoro": 862,
+    "Studente": 481
+  },
+  {
+    "Indice": 2,
+    "Anno": 2020,
+    "Casalinga/o": 1397,
+    "Disoccupato, in cerca di lavoro": 3180,
+    "Lavoro in nero": 415,
+    "Occupato": 4967,
+    "Ritirato/a dal lavoro": 1631,
+    "Studente": 1001
+  }
+]

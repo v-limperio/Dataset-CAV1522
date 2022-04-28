@@ -1,0 +1,29 @@
+[
+  {
+    "Indice": 1,
+    "Anno": 2018,
+    "Totale dei contatti": 38260,
+    "Contatti validi": 23233,
+    "Contatti non validi": 15027,
+    "Contatti effettuati da vittime": 9602,
+    "Contatti effettuati da utenti": 13631
+  },
+  {
+    "Indice": 2,
+    "Anno": 2019,
+    "Totale dei contatti": 41008,
+    "Contatti validi": 21290,
+    "Contatti non validi": 19718,
+    "Contatti effettuati da vittime": 8647,
+    "Contatti effettuati da utenti": 12643
+  },
+  {
+    "Indice": 3,
+    "Anno": 2020,
+    "Totale dei contatti": 43571,
+    "Contatti validi": 31688,
+    "Contatti non validi": 11883,
+    "Contatti effettuati da vittime": 15708,
+    "Contatti effettuati da utenti": 15980
+  }
+]

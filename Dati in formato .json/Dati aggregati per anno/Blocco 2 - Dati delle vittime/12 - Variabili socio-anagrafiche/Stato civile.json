@@ -1,0 +1,29 @@
+[
+  {
+    "Indice": 0,
+    "Anno": 2018,
+    "Coniugato": 4347,
+    "Divorziato da matrimonio o unione civile": 468,
+    "Celibe/nubile": 3027,
+    "Separato da matrimonio": 944,
+    "Vedovo da matrimonio o unione civile": 297
+  },
+  {
+    "Indice": 1,
+    "Anno": 2019,
+    "Coniugato": 3570,
+    "Divorziato da matrimonio o unione civile": 414,
+    "Celibe/nubile": 3070,
+    "Separato da matrimonio": 853,
+    "Vedovo da matrimonio o unione civile": 241
+  },
+  {
+    "Indice": 2,
+    "Anno": 2020,
+    "Coniugato": 6053,
+    "Divorziato da matrimonio o unione civile": 494,
+    "Celibe/nubile": 5568,
+    "Separato da matrimonio": 1245,
+    "Vedovo da matrimonio o unione civile": 491
+  }
+]

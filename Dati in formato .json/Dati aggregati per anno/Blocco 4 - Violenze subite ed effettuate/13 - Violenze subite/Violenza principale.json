@@ -1,0 +1,29 @@
+[
+  {
+    "Indice": 0,
+    "Anno": 2018,
+    "Fisica": 4248,
+    "Psicologica": 3747,
+    "Sessuale": 365,
+    "Stalking": 375,
+    "Economica": 123
+  },
+  {
+    "Indice": 1,
+    "Anno": 2019,
+    "Fisica": 3760,
+    "Psicologica": 3343,
+    "Sessuale": 398,
+    "Stalking": 323,
+    "Economica": 118
+  },
+  {
+    "Indice": 2,
+    "Anno": 2020,
+    "Fisica": 7439,
+    "Psicologica": 5316,
+    "Sessuale": 951,
+    "Stalking": 508,
+    "Economica": 185
+  }
+]
